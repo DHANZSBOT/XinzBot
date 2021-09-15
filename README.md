@@ -48,7 +48,7 @@ node main
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/Xinz-Team/XinzBot.git
+git clone https://github.com/DHANZSBOT/XinzBot.git
 cd XinzBot
 npm install
 node main
