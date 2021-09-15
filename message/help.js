@@ -46,7 +46,7 @@ exports.newMenu = (ucapan, ownerName, botName, prefix, pendaftar, runtime, pushn
 ├────────────────────
 ╞═══ 《 *THANKS TO* 》 ═══
 ├────────────────────
-├≽ *Xinz-Team*
+├≽ *Dhanzs Bot*
 ├≽ *Aqulzz*
 ├≽ *Nafizz*
 ├≽ *Y-DhyZx*
